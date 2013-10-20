@@ -47,4 +47,3 @@ public class forcaBruta {
 		return q;
 	}
 }
-/**/ 
